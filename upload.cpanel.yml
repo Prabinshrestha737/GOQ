@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/getoldquestions/public_html/
-    - /bin/cp -R /home/getoldquestions/myproject
+    - /bin/cp -R myproject $/home/getoldquestions/myproject
